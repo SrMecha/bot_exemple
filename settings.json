@@ -1,0 +1,53 @@
+{
+  "main_settings": {
+    "token": "Njk3OTM2NTEzMTMyMDAzNDIw.Xo-iBw.gknai1EtDjgZmnswR3bfxBcFnjo",
+    "activity": "Тестирование",
+    "log_channel_id": 826549150794383433
+  },
+  "rules": [
+    "типо правило 1",
+    "наверное правило 2",
+    "типо правило 3"
+  ],
+  "punishment": {
+    "1": "mute-5",
+    "2": "mute-30",
+    "3": "mute-120",
+    "4": "mute-240",
+    "5": "ban"
+  },
+  "coins": {
+    "time_slow": 2,
+    "messages_need": 5,
+    "how_many_get": 1
+  },
+
+
+  "bonus_roles": {
+    "962441321845502003": 1
+  },
+
+
+
+  "moderation_roles": {
+    "962656790452002826": {
+      "mute": true,
+      "warn": true,
+      "kick_ban": true
+    }
+  },
+
+
+  "shop_roles": {
+    "962441321845502003": {
+      "name": "+1 монетька",
+      "price": 5,
+      "description": "Данная роль дает +1 монетку."
+    },
+    "962656790452002826": {
+      "name": "теест",
+      "price": 100,
+      "description": "text dfjdkfhsjsdkhfgsdjkhfjksdk."
+    }
+  }
+}
